@@ -1,0 +1,9 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/BDX.WebApiLibrary/bin/Debug/net6.0
+/src/BDX.WebApiLibrary/obj
+/src/BDX.WebApiService/bin/Debug/net6.0
+/src/BDX.WebApiService/obj
